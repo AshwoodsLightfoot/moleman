@@ -1,0 +1,14 @@
+{
+    "name": "ashwoodslightfoot/moleman",
+    "description": "Support covert actions in tests",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ashwoodslightfoot\\Moleman\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
