@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ashwoodslightfoot\\Moleman\\": "src/"
+            "AshwoodsLightfoot\\Moleman\\": "src/"
         }
     },
     "require": {
